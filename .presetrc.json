@@ -1,0 +1,10 @@
+{
+  "aliases": {
+    "config": {
+      "type": "repository",
+      "organization": "jrson83",
+      "repository": "monorepo-preset",
+      "path": "./packages/presets/preset.ts"
+    }
+  }
+}
