@@ -10,9 +10,9 @@ export default definePreset<Options>({
 	handler: async({ options }) => {
 		
 		if (!options.ui) {
-			return console.log("no ui specified")
+			throw new Error(`The preset ui is missing.`)
 		}
-		
+
 		await extractTemplates({
 			title: 'extract templates',
 			from: options.ui,
