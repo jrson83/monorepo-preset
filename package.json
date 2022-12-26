@@ -1,0 +1,9 @@
+{
+  "name": "monorepo-preset",
+  "private": true,
+  "preset": "packages/presets/preset.ts",
+  "dependencies": {
+    "@types/node": "^18.11.17",
+    "typescript": "^4.9.4"
+  }
+}
