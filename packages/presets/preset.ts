@@ -15,6 +15,7 @@ export default definePreset<Options>({
 
 		await extractTemplates({
 			title: 'extract templates',
+			templates: "./templates",
 			from: options.ui,
 		})
 	},
