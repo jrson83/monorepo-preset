@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">presets</h2>
-<pre><div align="center">npx @preset/cli apply username/D:\projects\tests\monorepo\packages\presets</div></pre>
+<pre><div align="center">npx @preset/cli apply jrson83/monorepo-preset --ui preact|react|vue</div></pre>
 
 <br />
 
