@@ -1,5 +1,5 @@
 {
-  "name": "presets",
+  "name": "@monorepo/presets",
   "private": true,
   "author": "jrson83 <me@jrson.de>",
   "license": "MIT",
