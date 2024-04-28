@@ -1,10 +1,11 @@
 {
   "name": "@monorepo/presets",
   "private": true,
-  "author": "jrson83 <me@jrson.de>",
   "license": "MIT",
+  "author": "jrson83 <me@jrson.de>",
+  "type": "module",
   "devDependencies": {
-    "@preset/core": "^0.7.2",
-    "@types/node": "^18.11.17"
+    "@preset/core": "^0.11.2",
+    "@types/node": "^20.12.7"
   }
 }
